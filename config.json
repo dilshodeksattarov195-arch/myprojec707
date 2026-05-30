@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderuave",
+        "uuid": 5223316,
+        "checksum": "7ckgz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
